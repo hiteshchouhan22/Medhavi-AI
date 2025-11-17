@@ -28,7 +28,7 @@ A powerful Chrome extension powered by [Medhavi AI] for natural language agent p
 
 ```shell
 # Clone and install dependencies
-git clone 
+git clone https://github.com/hiteshchouhan22/Medhavi-AI.git
 cd Browser_Al_agent
 pnpm install
 
