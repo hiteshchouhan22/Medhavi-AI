@@ -134,6 +134,3 @@ The extension provides detailed error logging in the sidebar. Common error codes
 
 MIT License - see LICENSE file for details
 
-## Support
-
-For support and questions, visit [Medhavi AI]
